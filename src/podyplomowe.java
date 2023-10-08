@@ -3,6 +3,7 @@ public class podyplomowe {
 
         String firstName = "Anna" ;
         String lastName = " Pacia" ;
+        String secondName = "Aleksandra";
         short age = 28 ;
         char gender = 'm' ;
         long personalIDNumber = 2354528L;
@@ -12,6 +13,7 @@ public class podyplomowe {
         System.out.println( " Age: " + age );
         System.out.println(" Gender: " + gender);
         System.out.println(" Personal ID number :" + personalIDNumber);
+        System.out.println(" Second Name : " + secondName );
 
     }
 }
